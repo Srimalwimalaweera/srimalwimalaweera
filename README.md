@@ -60,5 +60,5 @@ I'm a self-taught developer and digital creator from Sri Lanka, specializing in 
 <!-- මේකෙන් උබේ GitHub එකේ stats පෙන්නන ලස්සන dynamic card එකක් එනවා. (srimalwimalaweera කියන එක උබේ හරිම username එක නම් විතරක් වැඩ කරයි) -->
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=srimalwimalaweera&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Srimalwimalaweera&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" />
 </p>
