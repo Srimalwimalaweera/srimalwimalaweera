@@ -12,10 +12,10 @@
   <a href="https://linkedin.com/in/srimalwimalaweera" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://youtube.com/@techchabro" target="_blank">
+  <a href="https://www.youtube.com/@dilucreationstudio" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
-  <a href="https://www.facebook.com/paduwehitanko" target="_blank">
+  <a href="https://www.facebook.com/dilumsrimalwimalaweera/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="https://www.wattpad.com/user/srimalwimalaweera" target="_blank">
